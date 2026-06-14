@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Convert the Vatican HTML source of Magnifica Humanitas to epub.
-Usage: python3 html_to_epub.py <input.html> [cover.png] <output.epub>
+Usage: python3 magnifica-humanitas.py <input.html> [cover.png] <output.epub>
 Requires: beautifulsoup4, ebooklib, lxml
 """
 
